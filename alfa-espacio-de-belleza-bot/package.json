@@ -1,0 +1,13 @@
+{
+  "name": "alfa-espacio-de-belleza-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp automation and analytics for Alfa Espacio de Belleza using n8n.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  },
+  "author": "",
+  "license": "MIT"
+}
